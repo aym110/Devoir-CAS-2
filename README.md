@@ -9,6 +9,7 @@ les dépendance de service Product:
 - MySQL driver
 - OpenFeign
 - Eureka client
+
 les dépendance de service Order:
 - Spring DATA JPA
 - Spring web
@@ -18,5 +19,6 @@ les dépendance de service Order:
 - OpenFeign
 - Eureka client
 - Resilience4J
+  
 les dépendance de service Register:
 - Eureka Server

@@ -1,5 +1,7 @@
 Binôme : Aymane EL HAJJI, Ilyas BELLAMINE
-les dependance de service Product:
+
+
+les dépendance de service Product:
 - Spring DATA JPA
 - Spring web
 - Lombok
@@ -7,5 +9,14 @@ les dependance de service Product:
 - MySQL driver
 - OpenFeign
 - Eureka client
-les dependance de service Product:
+les dépendance de service Order:
+- Spring DATA JPA
+- Spring web
+- Lombok
+- Spring boot Devtool
+- MySQL driver
+- OpenFeign
+- Eureka client
+- Resilience4J
+les dépendance de service Register:
 - Eureka Server
